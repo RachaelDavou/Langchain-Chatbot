@@ -31,7 +31,7 @@ To get an API key, go to https://platform.openai.com/api-keys, sign-in to your a
 Run the application from the command line:
 
 ```
-streamlit run app.py
+streamlit run Langchain_Chatbot.py
 ```
 
 The app will open a local host in your browser.
